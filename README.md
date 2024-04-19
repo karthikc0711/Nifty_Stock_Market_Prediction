@@ -3,6 +3,7 @@
 ## Description:
 Nifty_Stock_Market_Prediction is a Jupyter Notebook containing Python code to predict the movement of Nifty stocks using machine learning algorithms. It utilizes historical stock data, technical indicators, and sentiment analysis to generate predictions.
 
+ 
 # Requirements:<br>
 Python 3.x<br>
 Jupyter Notebook<be>
